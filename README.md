@@ -1,4 +1,4 @@
-🪧 Demo :- https://akshay0326.github.io/Meal-App-Find-Your-Meal/
+ 🪧 Demo :- https://ankush-nandal.github.io/Meal-App-Find-Your-Meal-master/
 ---
 About the Project :-
 
